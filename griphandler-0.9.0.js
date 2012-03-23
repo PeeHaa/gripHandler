@@ -1,3 +1,14 @@
+/**
+ * gripHandler jQuery plugin
+ * The jQuery plugin enables user to resize an element using a grip
+ *
+ * jQuery 1.7+
+ *
+ * @author     Pieter Hordijk <info@pieterhordijk.com>
+ * @copyright  Copyright (c) 2012 Pieter Hordijk
+ * @license    http://www.opensource.org/licenses/mit-license.html  MIT License
+ * @version    0.9.0
+ */
 (function($) {
     $.fn.gripHandler = function(options) {
         var defaults = {
