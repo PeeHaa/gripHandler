@@ -30,8 +30,8 @@ Activate the plugin on the element(s):
 Options
 -------
 
-**cursor** - The cursor type dislayed when hovering over the griphandle. Default is `auto`.
-**gripClass** - The class of the griphandle. Default is `grip-handle`.
+- **cursor** - The cursor type dislayed when hovering over the griphandle. Default is `auto`.
+- **gripClass** - The class of the griphandle. Default is `grip-handle`.
 
 Demo
 ----
