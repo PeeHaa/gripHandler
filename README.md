@@ -38,5 +38,5 @@ Demo
 
 Check out the demo @ [jsfiddle][2].
 
-[1]:https://github.com/downloads/PeeHaa/gripHandler/griphandler-0.9.0.min.js
+[1]:https://github.com/downloads/PeeHaa/gripHandler/griphandler-0.10.1.min.js
 [2]:http://jsfiddle.net/PeeHaa/54nfe/
